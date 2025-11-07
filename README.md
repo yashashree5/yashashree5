@@ -94,21 +94,6 @@
 > **Tech:** Snowflake · Airflow · dbt · Snowpark · Python · Tableau
 
 ---
-
-## 🎓 Education  
-
-- **San José State University** — *M.S., Applied Data Intelligence* (Aug 2025 – May 2027)  
-- **Savitribai Phule Pune University** — *B.E., Computer Engineering* (Aug 2019 – Jun 2023, GPA 3.5/4.0)*  
-
----
-
-## 📈 GitHub Stats  
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yashashree5&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashashree5&layout=compact&theme=tokyonight" />
-
----
-
 📍 **San Jose, CA**  
 ✉️ **[yashashree.shinde@sjsu.edu](mailto:yashashree.shinde@sjsu.edu)**  
 ⭐ *“Data becomes powerful when turned into insight.”*
