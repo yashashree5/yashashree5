@@ -28,12 +28,12 @@
 
 ## 🧾 Profile  
 
-- Graduate student at **San José State University**, pursuing an *M.S. in Applied Data Intelligence (2025–2027)*.  
-- Former **Software Engineer (BA4) at Barclays**, specializing in backend development, data workflow automation, and system optimization.  
-- Designed and deployed **end-to-end data pipelines** integrating **Airflow**, **dbt**, and **Snowflake**, improving data visibility and operational efficiency.  
-- Implemented **AI-based automation** using **OpenAI APIs** and prompt-engineering techniques to streamline analytics and triage workflows.  
-- Experienced in **data modeling**, **ETL design**, and **cloud-native processing (AWS, Docker)** for building production-grade data systems.  
-- Passionate about **data storytelling, orchestration, and cloud analytics** that enable teams to make data-driven decisions with confidence.  
+- Graduate student at **San José State University**, pursuing an **M.S. in Applied Data Intelligence (2025–2027)** with a focus on scalable data systems and intelligent automation.  
+- Former **Software Engineer (BA4) at Barclays**, where I managed the lifecycle of a **Java-based feed generator**, improving processing efficiency by **20%**.  
+- Led optimization of **Spring Boot microservices**, boosting system stability by **30%**, and handled production releases and regression testing to ensure reliability.  
+- Conducted **technical audits** and contributed to a **server migration project**, achieving **15% reduced downtime** while maintaining compliance and quality standards.  
+- Passionate about building **AI-driven data pipelines** using tools like **Airflow, dbt, Snowflake, and AWS**, and integrating **LLMs** for smarter analytics.  
+- Committed to **data storytelling and orchestration**, transforming raw data into actionable insights that drive business decisions.  
 
 ---
 
@@ -51,15 +51,15 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,git,github,mysql,postgresql,mongodb,aws,docker" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
 ---
