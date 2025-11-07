@@ -1,26 +1,28 @@
 # Yashashree Shinde  
 
 **MS in Applied Data Intelligence · San José State University**  
-*Data Engineer in the making blending analytics, cloud infrastructure, and AI-driven automation to craft smarter data systems.*  
+*Data Engineer in the making — blending analytics, cloud infrastructure, and AI-driven automation to craft smarter data systems.*  
 
 ---
 
 ## 🌐 Professional Links  
 
-<a href="https://www.linkedin.com/in/yashashree1/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
-</a>
-<a href="https://www.linkedin.com/in/yashashree1/" target="_blank"><b>LinkedIn</b></a>
-&nbsp;|&nbsp;
-<a href="https://github.com/yashashree5" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" />
-</a>
-<a href="https://github.com/yashashree5" target="_blank"><b>GitHub</b></a>
-&nbsp;|&nbsp;
-<a href="https://raw.githubusercontent.com/yashashree5/yashashree5/main/Yashashree_Resume_DE.pdf" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/resume.png" width="28" />
-</a>
-<a href="https://raw.githubusercontent.com/yashashree5/yashashree5/main/Yashashree_Resume_DE.pdf" target="_blank"><b>Resume (PDF)</b></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashashree1/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashashree1/" target="_blank"><b>LinkedIn</b></a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/yashashree5" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" />
+  </a>
+  <a href="https://github.com/yashashree5" target="_blank"><b>GitHub</b></a>
+  &nbsp;|&nbsp;
+  <a href="https://raw.githubusercontent.com/yashashree5/yashashree5/main/Yashashree_Resume_DE.pdf" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/resume.png" width="28" />
+  </a>
+  <a href="https://raw.githubusercontent.com/yashashree5/yashashree5/main/Yashashree_Resume_DE.pdf" target="_blank"><b>Resume (PDF)</b></a>
+</p>
 
 ---
 
@@ -47,17 +49,17 @@
 
 ## 🧰 Tech Toolbox  
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,git,github,mysql,postgresql,mongodb,aws,docker" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
 ---
