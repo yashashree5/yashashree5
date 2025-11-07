@@ -1,7 +1,7 @@
 # Yashashree Shinde  
 
 **MS in Applied Data Intelligence · San José State University**  
-*Data Engineer in the making — blending analytics, cloud infrastructure, and AI-driven automation to craft smarter data systems.*  
+*Data Engineer in the making blending analytics, cloud infrastructure, and AI-driven automation to craft smarter data systems.*  
 
 ---
 
