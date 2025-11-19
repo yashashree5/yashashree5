@@ -1,4 +1,4 @@
-### Hi there I am Yashashree
+## Hi there, I’m Yashashree 👋 (She/Her)
 
 **MS in Applied Data Intelligence · San José State University**  
 *Data Engineer in the making blending analytics, cloud infrastructure, and AI-driven automation to craft smarter data systems.*  
