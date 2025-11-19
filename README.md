@@ -37,16 +37,6 @@
 
 ---
 
-## 🧩 Core Competencies  
-
-| **Data Engineering** | **Cloud & DevOps** | **Programming & Tools** |
-| --- | --- | --- |
-| ETL / ELT · Data Warehousing · Data Modeling | AWS (S3, Glue) · Docker · CI/CD | Python · SQL · JavaScript · Git |
-| Workflow Orchestration · Pipeline Automation | Snowflake · Snowpark · dbt | Airflow · Spark · Power BI · Tableau · Streamlit |
-| Data Quality · Testing · Monitoring | Infrastructure Migration | Plotly · OpenAI API · JIRA |
-
----
-
 ## 🧰 Tech Toolbox  
 
 <p align="center">
