@@ -1,4 +1,4 @@
-# Yashashree Shinde  
+### Hi there I am Yashashree
 
 **MS in Applied Data Intelligence · San José State University**  
 *Data Engineer in the making blending analytics, cloud infrastructure, and AI-driven automation to craft smarter data systems.*  
