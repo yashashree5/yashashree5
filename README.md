@@ -1,7 +1,17 @@
 ## Hi there, I’m Yashashree 👋 (She/Her)
 
-**MS in Applied Data Intelligence · San José State University**  
-*Data Engineer in the making blending analytics, cloud infrastructure, and AI-driven automation to craft smarter data systems.*  
+**MS in Applied Data Intelligence · San José State University**
+
+---
+
+## 🧾 Profile  
+
+- Graduate student at **San José State University**, pursuing an **M.S. in Applied Data Intelligence (2025–2027)** with a focus on scalable data systems and intelligent automation.  
+- Former **Software Engineer (BA4) at Barclays**, where I managed the lifecycle of a **Java-based feed generator**, improving processing efficiency by **20%**.  
+- Led optimization of **Spring Boot microservices**, boosting system stability by **30%**, and handled production releases and regression testing to ensure reliability.  
+- Conducted **technical audits** and contributed to a **server migration project**, achieving **15% reduced downtime** while maintaining compliance and quality standards.  
+- Passionate about building **AI-driven data pipelines** using tools like **Airflow, dbt, Snowflake, and AWS**, and integrating **LLMs** for smarter analytics.  
+- Committed to **data storytelling and orchestration**, transforming raw data into actionable insights that drive business decisions.  
 
 ---
 
@@ -24,18 +34,6 @@
   <a href="https://raw.githubusercontent.com/yashashree5/yashashree5/main/Yashashree_Resume_DE.pdf" target="_blank"><b>Resume (PDF)</b></a>
 </p>
 
----
-
-## 🧾 Profile  
-
-- Graduate student at **San José State University**, pursuing an **M.S. in Applied Data Intelligence (2025–2027)** with a focus on scalable data systems and intelligent automation.  
-- Former **Software Engineer (BA4) at Barclays**, where I managed the lifecycle of a **Java-based feed generator**, improving processing efficiency by **20%**.  
-- Led optimization of **Spring Boot microservices**, boosting system stability by **30%**, and handled production releases and regression testing to ensure reliability.  
-- Conducted **technical audits** and contributed to a **server migration project**, achieving **15% reduced downtime** while maintaining compliance and quality standards.  
-- Passionate about building **AI-driven data pipelines** using tools like **Airflow, dbt, Snowflake, and AWS**, and integrating **LLMs** for smarter analytics.  
-- Committed to **data storytelling and orchestration**, transforming raw data into actionable insights that drive business decisions.  
-
----
 
 ## 🧰 Tech Toolbox  
 
