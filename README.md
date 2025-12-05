@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Yashashree Shinde
 
-### 🎓 MS in Applied Data Intelligence | San José State University
-### 🔄 Exploring Data Science → Analytics → Engineering → AI
-### 💡 Building the Bridge from Data to Intelligence
+###  MS in Applied Data Intelligence | San José State University
+###  Exploring Data Science → Analytics → Engineering → AI
+###  Building the Bridge from Data to Intelligence
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Analytics+%7C+Engineering;Exploring+Every+Facet+of+Data;Future+AI+Engineer+in+the+Making;Building+Intelligent+Data+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Analytics+%7C+Engineering;Exploring+Every+Facet+of+Data" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashree1/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5)
