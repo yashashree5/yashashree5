@@ -26,29 +26,9 @@ I'm on a journey through the vast field of data, exploring every facet:
 - 📈 **Data Analytics** - Transforming data into actionable business insights  
 - 🔧 **Data Engineering** - Building robust, scalable data pipelines
 - 🤖 **AI Engineering** - My ultimate destination, integrating intelligence into systems
-```python
-class DataExplorer:
-    def __init__(self):
-        self.name = "Yashashree Shinde"
-        self.current_role = "Data Engineering Focus"
-        self.location = "San Jose, CA 📍"
-        self.education = "MS in Applied Data Intelligence (2025-2027)"
-        self.journey = ["Data Analyst", "Data Scientist", "Data Engineer", "→ AI Engineer"]
-        self.mission = "Bridging data engineering with AI to build intelligent systems"
-    
-    def get_skills(self):
-        return {
-            "languages": ["Python", "Java", "SQL", "JavaScript"],
-            "data_tools": ["Airflow", "dbt", "Spark", "Snowflake"],
-            "cloud": ["AWS", "Docker"],
-            "databases": ["PostgreSQL", "MySQL", "MongoDB", "Cassandra"],
-            "visualization": ["Tableau", "Power BI", "Streamlit", "Plotly"],
-            "ai_ml": ["OpenAI APIs", "Snowpark ML", "LightGBM", "Scikit-learn"]
-        }
-```
 
 <details>
-<summary>💼 <b>Professional Journey</b> (Click to expand)</summary>
+<summary>💼 <b>Professional Journey</b></summary>
 <br>
 
 - 🏦 **Software Engineer (BA4) @ Barclays**
@@ -56,11 +36,6 @@ class DataExplorer:
   - Optimized Spring Boot microservices → **30% stability improvement**
   - Led server migration → **15% reduced downtime**
   - Conducted technical audits and regression testing
-
-- 🎓 **Graduate Student @ SJSU**
-  - Focus: Scalable data systems & intelligent automation
-  - Building AI-driven data pipelines with modern tools
-  - Committed to data storytelling & orchestration
 
 </details>
 
@@ -112,10 +87,10 @@ class DataExplorer:
 ### 🤖 IncidentIQ
 **AI-Powered Incident Management**
 
-- ✨ Built intelligent platform with **OpenAI APIs**
-- 📊 Real-time SLA tracking with **Airflow + dbt**
-- ⚡ **70% faster** incident resolution
-- 🔧 **Tech:** PostgreSQL, Airflow, dbt, Streamlit, Docker
+-  Built intelligent platform with **OpenAI APIs**
+-  Real-time SLA tracking with **Airflow + dbt**
+-  **70% faster** incident resolution
+-  **Tech:** PostgreSQL, Airflow, dbt, Streamlit, Docker
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/IncidentIQ)
 
@@ -125,10 +100,10 @@ class DataExplorer:
 ### 🍳 SnowChef
 **Smart Pantry & Recipe Warehouse**
 
-- 🏗️ Snowflake-based data warehouse
-- 🤖 **Snowpark ML** for recommendations
-- 📈 Interactive **Tableau dashboards**
-- 🔧 **Tech:** Snowflake, Airflow, dbt, Python
+-  Snowflake-based data warehouse
+-  **Snowpark ML** for recommendations
+-  Interactive **Tableau dashboards**
+-  **Tech:** Snowflake, Airflow, dbt, Python
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/Snowchef)
 
@@ -140,27 +115,13 @@ class DataExplorer:
 ### 💳 Credit Fraud Detection
 **Real-time ML Detection System**
 
-- 🎯 LightGBM model for fraud detection
-- 🖥️ Interactive Streamlit dashboard
-- ⚡ Real-time transaction monitoring
-- 🔧 **Tech:** Python, LightGBM, Streamlit
+-  LightGBM model for fraud detection
+-  Interactive Streamlit dashboard
+-  Real-time transaction monitoring
+-  **Tech:** Python, LightGBM, Streamlit
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/Credit_Fraud_Detection_System)
 
-</td>
-<td width="50%">
-
-### 🏢 Data Warehouse Projects
-**ETL & Dimensional Modeling**
-
-- 📦 Coursework for DATA 226
-- 🔄 ETL pipelines & data integration
-- 📐 Advanced dimensional modeling
-- 🔧 **Tech:** Python, SQL, Data Modeling
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/DATA-226-Data-Warehouse)
-
-</td>
 </tr>
 </table>
 
@@ -173,8 +134,6 @@ class DataExplorer:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashashree5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashashree5&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashashree5&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -197,10 +156,10 @@ graph TD
 ```
 
 **Current Focus:**
-- 🔨 Building scalable data pipelines and infrastructure
-- 📚 Learning advanced ML Ops and AI system design
-- 🌱 Expanding expertise across the full data stack
-- 🎯 Integrating AI/ML into data engineering workflows
+-  Building scalable data pipelines and infrastructure
+-  Learning advanced ML Ops and AI system design
+-  Expanding expertise across the full data stack
+-  Integrating AI/ML into data engineering workflows
 
 ---
 
@@ -208,7 +167,7 @@ graph TD
 
 <div align="center">
 
-### *"Exploring the full spectrum of data—from analysis to engineering to AI—building intelligent systems where data meets innovation"*
+### *"What we build reflects what we believe"*
 
 </div>
 
@@ -223,16 +182,9 @@ I'm always open to interesting conversations and collaboration opportunities!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashree1/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashree.shinde@sjsu.edu)
 
-![Profile Views](https://komarev.com/ghpvc/?username=yashashree5&color=brightgreen&style=for-the-badge)
-
 </div>
 
 ---
 
 <div align="center">
 
-### ⭐ Fun Fact
-
-*I believe the best data pipelines are like well-choreographed dances—every component knows its role and moves in perfect harmony!* 💃
-
-</div>
