@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Yashashree Shinde
 
 ###  MS in Applied Data Intelligence | San José State University
-###  Exploring Data Science → Analytics → Engineering → AI
 ###  Building the Bridge from Data to Intelligence
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Analytics+%7C+Engineering;Exploring+Every+Facet+of+Data" alt="Typing SVG" />
