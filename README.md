@@ -16,31 +16,27 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
-> 🔍 **Exploring the Data Universe** - From Data Science to Data Analytics to Data Engineering, with a vision towards AI Engineering
+>  **Exploring the Data Universe** - From Data Science to Data Analytics to Data Engineering, with a vision towards AI Engineering
 
 I'm on a journey through the vast field of data, exploring every facet:
-- 📊 **Data Science** - Uncovering patterns and building predictive models
-- 📈 **Data Analytics** - Transforming data into actionable business insights  
-- 🔧 **Data Engineering** - Building robust, scalable data pipelines
-- 🤖 **AI Engineering** - My ultimate destination, integrating intelligence into systems
+-  **Data Science** - Uncovering patterns and building predictive models
+-  **Data Analytics** - Transforming data into actionable business insights  
+-  **Data Engineering** - Building robust, scalable data pipelines
+-  **AI Engineering** - My ultimate destination, integrating intelligence into systems
 
-<details>
-<summary>💼 <b>Professional Journey</b></summary>
-<br>
 
-- 🏦 **Software Engineer (BA4) @ Barclays**
+## Professional Journey
+-  **Software Engineer (BA4) @ Barclays**
   - Managed Java-based feed generator lifecycle → **20% efficiency boost**
   - Optimized Spring Boot microservices → **30% stability improvement**
   - Led server migration → **15% reduced downtime**
   - Conducted technical audits and regression testing
 
-</details>
-
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -77,7 +73,7 @@ I'm on a journey through the vast field of data, exploring every facet:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
