@@ -124,43 +124,6 @@ I'm on a journey through the vast field of data, exploring every facet:
 
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashashree5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashashree5&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 What I'm Currently Working On
-```mermaid
-graph TD
-    A[🌐 Data Exploration Journey] --> B[📊 Data Science]
-    A --> C[📈 Data Analytics]
-    A --> D[🔧 Data Engineering]
-    D --> E[🤖 AI Engineering]
-    B --> E
-    C --> E
-    E --> F[Building Intelligent Systems]
-    
-    style A fill:#667eea
-    style E fill:#f093fb
-    style F fill:#4facfe
-```
-
-**Current Focus:**
--  Building scalable data pipelines and infrastructure
--  Learning advanced ML Ops and AI system design
--  Expanding expertise across the full data stack
--  Integrating AI/ML into data engineering workflows
-
 ---
 
 ## 💡 Philosophy
