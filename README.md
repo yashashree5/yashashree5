@@ -2,10 +2,6 @@
 
 # 👋 Hi, I'm Yashashree
 
-###  MS in Applied Data Intelligence | San José State University
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Analytics+%7C+Engineering;Exploring+Every+Facet+of+Data" alt="Typing SVG" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashree1/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashree.shinde@sjsu.edu)
@@ -22,7 +18,12 @@ I am a data professional and former Software Engineer transitioning into the dat
 My background in software development allows me to bring strong engineering principles to data architecture, ensuring that the pipelines and models I build are robust, efficient, and production-ready.
 
 ### 🏢 Professional Background
-* **Software Engineer (BA4) @ Barclays:** Engineered and managed Java-based microservices, optimizing system stability by 30% and reducing server downtime by 15%.
+
+**Software Engineer (BA4) @ Barclays**
+*  **Backend Engineering:** Engineered and managed enterprise Java microservices, significantly optimizing system stability and minimizing server downtime.
+*  **Large-Scale Analytics:** Processed daily high-volume transactions using advanced SQL to generate critical risk and performance metrics for executive decision-making.
+*  **Data Quality:** Implemented robust anomaly detection and validation frameworks, successfully reducing reporting discrepancies.
+*  **Governance:** Supported enterprise database migrations and SOX audits by establishing strict data lineage and schema validation protocols.
 * **Current Focus:** Data Engineering, Real-Time Analytics (Snowflake, Spark), and AI integration. 
 
 ---
