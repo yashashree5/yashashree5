@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Yashashree Shinde
+# 👋 Hi, I'm Yashashree
 
 ###  MS in Applied Data Intelligence | San José State University
-###  Building the Bridge from Data to Intelligence
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Analytics+%7C+Engineering;Exploring+Every+Facet+of+Data" alt="Typing SVG" />
 
@@ -16,23 +15,15 @@
 
 ---
 
-## About Me
+## 👩🏻‍💻 About Me
 
->  **Exploring the Data Universe** - From Data Science to Data Analytics to Data Engineering, with a vision towards AI Engineering
+I am a data professional and former Software Engineer transitioning into the data and AI space. Currently pursuing an MS in Applied Data Intelligence at San José State University, I specialize in designing end-to-end data pipelines, real-time analytics, and scalable machine learning solutions. 
 
-I'm on a journey through the vast field of data, exploring every facet:
--  **Data Science** - Uncovering patterns and building predictive models
--  **Data Analytics** - Transforming data into actionable business insights  
--  **Data Engineering** - Building robust, scalable data pipelines
--  **AI Engineering** - My ultimate destination, integrating intelligence into systems
+My background in software development allows me to bring strong engineering principles to data architecture, ensuring that the pipelines and models I build are robust, efficient, and production-ready.
 
-
-## Professional Journey
--  **Software Engineer (BA4) @ Barclays**
-  - Managed Java-based feed generator lifecycle → **20% efficiency boost**
-  - Optimized Spring Boot microservices → **30% stability improvement**
-  - Led server migration → **15% reduced downtime**
-  - Conducted technical audits and regression testing
+### 🏢 Professional Background
+* **Software Engineer (BA4) @ Barclays:** Engineered and managed Java-based microservices, optimizing system stability by 30% and reducing server downtime by 15%.
+* **Current Focus:** Data Engineering, Real-Time Analytics (Snowflake, Spark), and AI integration. 
 
 ---
 
@@ -79,55 +70,60 @@ I'm on a journey through the vast field of data, exploring every facet:
 <tr>
 <td width="50%">
 
-### 🤖 IncidentIQ
-**AI-Powered Incident Management**
+### 🚇 BART Transit Intelligence
+**Real-Time Live Tracking Dashboard**
 
--  Built intelligent platform with **OpenAI APIs**
--  Real-time SLA tracking with **Airflow + dbt**
--  **70% faster** incident resolution
--  **Tech:** PostgreSQL, Airflow, dbt, Streamlit, Docker
+- Built a streaming pipeline for live transit data
+- Interactive UI using **Streamlit & Plotly**
+- Optimized data fetching using **Snowflake**
+- **Tech:** Python, Spark, Snowflake, Streamlit
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/IncidentIQ)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/BART-Transit-Intelligence)
 
 </td>
 <td width="50%">
 
-### 🍳 SnowChef
-**Smart Pantry & Recipe Warehouse**
+### 🤖 IncidentIQ
+**AI-Powered Incident Management**
 
--  Snowflake-based data warehouse
--  **Snowpark ML** for recommendations
--  Interactive **Tableau dashboards**
--  **Tech:** Snowflake, Airflow, dbt, Python
+- Built intelligent platform with **OpenAI APIs**
+- Real-time SLA tracking with **Airflow + dbt**
+- **70% faster** incident resolution
+- **Tech:** PostgreSQL, Airflow, dbt, Streamlit, Docker
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/Snowchef)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/IncidentIQ)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
+### 🍳 SnowChef
+**Smart Pantry & Recipe Warehouse**
+
+- Snowflake-based data warehouse
+- **Snowpark ML** for recommendations
+- Interactive **Tableau dashboards**
+- **Tech:** Snowflake, Airflow, dbt, Python
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/Snowchef)
+
+</td>
+<td width="50%">
+
 ### 💳 Credit Fraud Detection
 **Real-time ML Detection System**
 
--  LightGBM model for fraud detection
--  Interactive Streamlit dashboard
--  Real-time transaction monitoring
--  **Tech:** Python, LightGBM, Streamlit
+- LightGBM model for fraud detection
+- Interactive Streamlit dashboard
+- Real-time transaction monitoring
+- **Tech:** Python, LightGBM, Streamlit
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashashree5/Credit_Fraud_Detection_System)
 
+</td>
 </tr>
 </table>
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-### *"What we build reflects what we believe"*
-
-</div>
 
 ---
 
@@ -141,8 +137,3 @@ I'm always open to interesting conversations and collaboration opportunities!
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashree.shinde@sjsu.edu)
 
 </div>
-
----
-
-<div align="center">
-
