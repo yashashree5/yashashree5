@@ -18,14 +18,14 @@ Former Software Engineer · Data Engineering · Real-Time Analytics · ML
 
 I'm a data professional and former Software Engineer transitioning into the data and AI space. My background in backend engineering at **Barclays** (BA4) gives me a strong foundation in building production-grade systems — I bring that same rigor to data pipelines, ML models, and real-time analytics.
 
-- 🎓 Pursuing **MS in Applied Data Intelligence** at San José State University
-- 🏢 Previously **Software Engineer (BA4) @ Barclays** — Java microservices, high-volume SQL analytics, SOX audits
-- 🔭 Currently building projects across **data engineering, ML, and full-stack AI**
-- 📍 San Jose, CA
+-  Pursuing **MS in Applied Data Intelligence** at San José State University
+-  Previously **Software Engineer (BA4) @ Barclays** — Java microservices, high-volume SQL analytics, SOX audits
+-  Currently building projects across **data engineering, ML, and full-stack AI**
+-  San Jose, CA
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages**
 `Python` `Java` `SQL` `JavaScript`
@@ -47,7 +47,7 @@ I'm a data professional and former Software Engineer transitioning into the data
 
 ---
 
-## 📂 Projects
+##  Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -62,7 +62,7 @@ I'm a data professional and former Software Engineer transitioning into the data
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 - 💼 [linkedin.com/in/yashashree1](https://www.linkedin.com/in/yashashree1/)
 - 📧 [yashashree.shinde@sjsu.edu](mailto:yashashree.shinde@sjsu.edu)
