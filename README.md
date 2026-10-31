@@ -45,6 +45,7 @@ I'm a data professional and former Software Engineer transitioning into the data
 - 🎓 Pursuing **MS in Applied Data Intelligence** at San José State University
 - 💼 Previously **Software Engineer (BA4) @ Barclays** — Java microservices, high-volume SQL analytics, SOX audits
 - 🔨 Currently building projects across **data engineering, ML, and full-stack AI**
+- 🎓 Master's capstone: **AV planner regression-intelligence platform** using nuPlan and causal inference
 - 📍 San Jose, CA
 
 ---
@@ -94,22 +95,50 @@ I'm a data professional and former Software Engineer transitioning into the data
 
 [![BART Transit Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=BART-Transit-Intelligence&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/BART-Transit-Intelligence)
 [![IncidentIQ](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=IncidentIQ&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/IncidentIQ)
+[![Causal Inference Uplift Capstone](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=data298a-causal-inference-uplift&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/data298a-causal-inference-uplift)
+[![Mayday Ops](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=mayday-ops&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/mayday-ops)
+[![NYC 911 Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=nyc911-pipeline&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/nyc911-pipeline)
+[![SnowChef](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=Snowchef&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/Snowchef)
 
-<details>
-<summary><b>📂 More projects — click to expand</b></summary>
+---
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🚇 BART Transit Intelligence](https://github.com/yashashree5/BART-Transit-Intelligence) | End-to-end pipeline tracking real-time BART train delays with interactive dashboard | Python · Spark · Snowflake · Airflow · Streamlit |
-| [📉 Telco Churn Analysis](https://github.com/yashashree5/telco-churn-analysis) | EDA, SQL cohort analysis & ML (AUC 0.81) identifying $819K annual revenue risk across 7K customers | Python · SQL · XGBoost · Tableau |
-| [🍽️ Yelp Prototype](https://github.com/yashashree5/Yelp-Prototype) | Full-stack restaurant review app with JWT auth and LangChain AI assistant for recommendations | React · FastAPI · LangChain |
-| [🤖 IncidentIQ](https://github.com/yashashree5/IncidentIQ) | AI-powered incident management with real-time SLA tracking — 70% faster resolution | PostgreSQL · Airflow · dbt · OpenAI · Docker |
-| [🍳 SnowChef](https://github.com/yashashree5/Snowchef) | Smart kitchen assistant predicting recipes from your pantry using ML | Snowflake · Airflow · dbt · Snowpark ML |
-| [💳 Credit Fraud Detection](https://github.com/yashashree5/Credit_Fraud_Detection_System) | Real-time ML fraud detection system with interactive monitoring dashboard | Python · LightGBM · Streamlit |
+## 🗂️ All My Repositories
+
+### 🚰 Data Engineering & Pipelines
+
+| Repo | What it does | Stack |
+|------|--------------|-------|
+| [🚇 BART Transit Intelligence](https://github.com/yashashree5/BART-Transit-Intelligence) | End-to-end pipeline tracking real-time BART train delays with an interactive dashboard | Python · Spark · Snowflake · Airflow · Streamlit |
+| [🚨 NYC 911 Pipeline](https://github.com/yashashree5/nyc911-pipeline) | Real-time big data pipeline for NYC 911 emergency response prediction | Hadoop · Spark · Kafka · Hive · MLlib |
+| [🍳 SnowChef](https://github.com/yashashree5/Snowchef) | Smart kitchen assistant predicting recipes from your pantry | Snowflake · Airflow · dbt · Snowpark ML |
+| [📦 DATA 226 Data Warehouse](https://github.com/yashashree5/DATA-226-Data-Warehouse) | ETL, dimensional modeling, and data integration coursework | Python · SQL |
+
+### 🤖 AI & Machine Learning
+
+| Repo | What it does | Stack |
+|------|--------------|-------|
+| [🎓 Causal Inference Capstone](https://github.com/yashashree5/data298a-causal-inference-uplift) | Master's capstone: AV planner regression-intelligence platform finding scenario-specific improvements | nuPlan · Causal Inference · AI |
+| [🤖 IncidentIQ](https://github.com/yashashree5/IncidentIQ) | AI-powered incident management with SLA analytics and AI-driven triage | Postgres · dbt · Airflow · Streamlit · OpenAI |
+| [⚖️ Legal AI Viewer](https://github.com/yashashree5/legal-ai-viewer) | RAG-powered legal document viewer with clause-level citations | RAG · LLM |
+| [📉 Telco Churn Analysis](https://github.com/yashashree5/telco-churn-analysis) | Churn ML (AUC 0.81) identifying $819K annual revenue risk across 7K customers | Python · SQL · XGBoost · Tableau |
+| [💳 Credit Fraud Detection](https://github.com/yashashree5/Credit_Fraud_Detection_System) | Real-time ML fraud detection with an interactive dashboard | Python · LightGBM · Streamlit |
 | [🏦 Loan Default Risk](https://github.com/yashashree5/loan-default-risk-analysis) | Risk modeling and prediction on loan default datasets | Python · scikit-learn |
-| [🌐 Distributed Systems](https://github.com/yashashree5/DATA-236-Distributed-Systems) | Coursework building reliable, scalable, fault-tolerant distributed systems | Python |
 
-</details>
+### 🌐 Full-Stack & Web
+
+| Repo | What it does | Stack |
+|------|--------------|-------|
+| [🚁 Mayday Ops](https://github.com/yashashree5/mayday-ops) | AI disaster-rescue command center: 911-style calls become drone-checked missions on a live 3D map | Amazon Bedrock · TypeScript |
+| [🍽️ Yelp Prototype](https://github.com/yashashree5/Yelp-Prototype) | Full-stack restaurant review app with JWT auth and LangChain AI recommendations | React · FastAPI · LangChain |
+| [🌐 Personal Website](https://github.com/yashashree5/yashashree5.github.io) | My personal website | HTML |
+| [💱 TradeShpere](https://github.com/yashashree5/TradeShphere) | Python project | Python |
+
+### 📚 Coursework & More
+
+| Repo | What it does |
+|------|--------------|
+| [🌐 DATA 236 Distributed Systems](https://github.com/yashashree5/DATA-236-Distributed-Systems) | Building reliable, scalable, fault-tolerant distributed systems |
+| [🛡️ Ethical Hacking Internship](https://github.com/yashashree5/Ethical-Hacking-Internship-Submission) | Internship submission for ethical hacking program |
 
 ---
 
