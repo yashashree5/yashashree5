@@ -13,19 +13,14 @@
 
 ---
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashashree5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yashashree5&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashashree5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yashashree5&theme=tokyonight&no-frame=true&no-bg=true&column=4" alt="GitHub trophies" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashashree5&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://ghchart.rshah.org/6F69F7/yashashree5" width="100%" alt="Yashashree's contribution chart" />
 </div>
 
 ### 🐍 Watch the snake eat my contributions
@@ -93,12 +88,14 @@ I'm a data professional and former Software Engineer transitioning into the data
 
 ## 💼 Featured Projects
 
-[![BART Transit Intelligence](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=BART-Transit-Intelligence&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/BART-Transit-Intelligence)
-[![IncidentIQ](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=IncidentIQ&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/IncidentIQ)
-[![Causal Inference Uplift Capstone](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=data298a-causal-inference-uplift&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/data298a-causal-inference-uplift)
-[![Mayday Ops](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=mayday-ops&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/mayday-ops)
-[![NYC 911 Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=nyc911-pipeline&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/nyc911-pipeline)
-[![SnowChef](https://github-readme-stats.vercel.app/api/pin/?username=yashashree5&repo=Snowchef&theme=tokyonight&hide_border=true)](https://github.com/yashashree5/Snowchef)
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [🚇 BART Transit Intelligence](https://github.com/yashashree5/BART-Transit-Intelligence) | End-to-end pipeline tracking real-time BART train delays with an interactive dashboard | Python · Spark · Snowflake · Airflow · Streamlit |
+| [🎓 Causal Inference Capstone](https://github.com/yashashree5/data298a-causal-inference-uplift) | Master's capstone: AV planner regression-intelligence platform finding scenario-specific improvements | nuPlan · Causal Inference · AI |
+| [🚁 Mayday Ops](https://github.com/yashashree5/mayday-ops) | AI disaster-rescue command center: 911-style calls become drone-checked missions on a live 3D map | Amazon Bedrock · TypeScript |
+| [🤖 IncidentIQ](https://github.com/yashashree5/IncidentIQ) | AI-powered incident management with SLA analytics and AI-driven triage | Postgres · dbt · Airflow · Streamlit · OpenAI |
+| [🚨 NYC 911 Pipeline](https://github.com/yashashree5/nyc911-pipeline) | Real-time big data pipeline for NYC 911 emergency response prediction | Hadoop · Spark · Kafka · Hive · MLlib |
+| [🍳 SnowChef](https://github.com/yashashree5/Snowchef) | Smart kitchen assistant predicting recipes from your pantry | Snowflake · Airflow · dbt · Snowpark ML |
 
 ---
 
