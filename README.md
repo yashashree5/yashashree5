@@ -13,34 +13,26 @@
 
 ---
 
-## 🚀 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashashree5&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/6F69F7/yashashree5" width="100%" alt="Yashashree's contribution chart" />
-</div>
-
-### 🐍 Watch the snake eat my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake.svg" />
-  <img alt="GitHub snake animation" src="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake.svg" />
-</picture>
-
----
-
 ## 👩‍💻 About Me
 
-I'm a data professional and former Software Engineer transitioning into the data and AI space. My background in backend engineering at **Barclays** (BA4) gives me a strong foundation in building production-grade systems — I bring that same rigor to data pipelines, ML models, and real-time analytics.
+I'm a data professional on a mission to turn messy, high-volume data into decisions people can actually act on. My path here runs through production backend engineering: at **Barclays**, I built **Java microservices** and ran **high-volume SQL analytics** for SOX audits as a Software Engineer (BA4). That's where I learned what production-grade really means — systems that are tested, observable, and dependable at scale. I bring that same rigor to data pipelines, ML models, and real-time analytics.
+
+These days I'm pursuing my **MS in Applied Data Intelligence at San José State University**, going deep on the data side of the house — warehousing, streaming pipelines, and ML systems. I don't just build models; I build systems that keep running.
+
+**A few things I care about:**
+
+- 🏭 **Production mindset** — pipelines with orchestration, tests, and monitoring, not just notebooks
+- 📊 **Data that tells a story** — from churn cohorts ($819K revenue risk found) to real-time BART delays
+- 🤖 **Practical AI** — RAG apps, LLM agents, and ML that solves a real problem end to end
+
+**Quick facts:**
 
 - 🎓 Pursuing **MS in Applied Data Intelligence** at San José State University
 - 💼 Previously **Software Engineer (BA4) @ Barclays** — Java microservices, high-volume SQL analytics, SOX audits
-- 🔨 Currently building projects across **data engineering, ML, and full-stack AI**
-- 🎓 Master's capstone: **AV planner regression-intelligence platform** using nuPlan and causal inference
+- 🧪 Master's capstone: **AV planner regression-intelligence platform** using nuPlan and causal inference to catch scenario-specific planner regressions
+- 🔨 Currently building across **data engineering, ML, and full-stack AI** — from BART delay pipelines to LLM-powered assistants
+- 🌱 Deep in **causal inference, Snowpark ML, and agentic AI** right now
+- 💼 Open to **data engineering and ML roles**
 - 📍 San Jose, CA
 
 ---
@@ -147,6 +139,26 @@ I'm a data professional and former Software Engineer transitioning into the data
 [![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashree.shinde@sjsu.edu)
 
 </div>
+
+---
+
+## 🚀 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashashree5&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/6F69F7/yashashree5" width="100%" alt="Yashashree's contribution chart" />
+</div>
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake.svg" />
+  <img alt="GitHub snake animation" src="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6F69F7&height=80&section=footer" width="100%" alt="Footer wave" />
