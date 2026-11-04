@@ -1,165 +1,115 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6F69F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Yashashree+%F0%9F%91%8B;MS+in+Applied+Data+Intelligence+%40+SJSU;Data+Engineering+%C2%B7+Real-Time+Analytics+%C2%B7+ML)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6F69F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Yashashree+%F0%9F%91%8B;Data+Engineer+%C2%B7+ML+%C2%B7+Real-Time+Analytics)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashree1/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/yashashree5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashashree.shinde@sjsu.edu)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://raw.githubusercontent.com/yashashree5/yashashree5/main/Yashashree_Resume_DE.pdf)
 
-<img src="https://komarev.com/ghpvc/?username=yashashree5&label=PROFILE+VIEWS&color=6F69F7&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-I'm a data professional on a mission to turn messy, high-volume data into decisions people can actually act on. My path here runs through production backend engineering: at **Barclays**, I built **Java microservices** and ran **high-volume SQL analytics** for SOX audits as a Software Engineer (BA4). That's where I learned what production-grade really means — systems that are tested, observable, and dependable at scale. I bring that same rigor to data pipelines, ML models, and real-time analytics.
+I build data pipelines and ML systems that run reliably in production.
 
-These days I'm pursuing my **MS in Applied Data Intelligence at San José State University**, going deep on the data side of the house — warehousing, streaming pipelines, and ML systems. I don't just build models; I build systems that keep running.
+- 🎓 **MS in Applied Data Intelligence** @ San José State University
+- 💼 **Ex-Software Engineer @ Barclays** — Java microservices and high-volume SQL analytics for SOX audits
+- 🧪 **Capstone:** AV planner regression detection using nuPlan and causal inference
+- 🎯 **Open to** Data Engineering and ML roles · 📍 San Jose, CA
 
-**A few things I care about:**
+**Right now I'm:**
 
-- 🏭 **Production mindset** — pipelines with orchestration, tests, and monitoring, not just notebooks
-- 📊 **Data that tells a story** — from churn cohorts ($819K revenue risk found) to real-time BART delays
-- 🤖 **Practical AI** — RAG apps, LLM agents, and ML that solves a real problem end to end
-
-**Quick facts:**
-
-- 🎓 Pursuing **MS in Applied Data Intelligence** at San José State University
-- 💼 Previously **Software Engineer (BA4) @ Barclays** — Java microservices, high-volume SQL analytics, SOX audits
-- 🧪 Master's capstone: **AV planner regression-intelligence platform** using nuPlan and causal inference to catch scenario-specific planner regressions
-- 🔨 Currently building across **data engineering, ML, and full-stack AI** — from BART delay pipelines to LLM-powered assistants
-- 🌱 Deep in **causal inference, Snowpark ML, and agentic AI** right now
-- 💼 Open to **data engineering and ML roles**
-- 📍 San Jose, CA
+- 🧠 Going deep on **LLM inference, transformers, and applied deep learning**
+- 🚗 Building **ADAS** (advanced driver-assistance systems) projects
+- 🏆 Joining **hackathons around San Francisco** to learn how the industry builds. Most recent: HP x SJSU Edge AI, SpartHill Hacks 2026 (AWS Track), and the Fireworks AI Deploy Buildathon
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-<div align="center">
+| | |
+|---|---|
+| **🛠️ Data Engineering** | Python · SQL · Airflow · dbt · Spark · Kafka · Snowflake · PostgreSQL · MongoDB · Cassandra · AWS · Docker |
+| **📊 Data Analytics** | SQL · Pandas · scikit-learn · XGBoost · LightGBM · Tableau · Power BI · Streamlit |
+| **🧠 Currently Exploring** | LLM Inference · Transformers · Applied Deep Learning · Fireworks AI · Amazon Bedrock · LangChain |
 
-**Languages**
+---
 
-[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev) 
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) 
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+## Featured Projects
 
-**Data Engineering & Cloud**
-
-[![Spark](https://skillicons.dev/icons?i=apache)](https://skillicons.dev) 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) 
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) 
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-
-**Web**
-
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
-
-</div>
+| Project | Impact | Stack |
+|---------|--------|-------|
+| [🚇 BART Transit Intelligence](https://github.com/yashashree5/BART-Transit-Intelligence) | Real-time train delay tracking with a live dashboard | Spark · Snowflake · Airflow · Streamlit |
+| [🎓 Causal Inference Capstone](https://github.com/yashashree5/data298a-causal-inference-uplift) | Finds scenario-specific regressions in autonomous vehicle planners | nuPlan · Causal Inference |
+| [🚁 Mayday Ops](https://github.com/yashashree5/mayday-ops) | Turns 911-style calls into drone-verified rescue missions on a 3D map | Amazon Bedrock · TypeScript |
+| [🤖 IncidentIQ](https://github.com/yashashree5/IncidentIQ) | AI triage and SLA analytics for incident management | Postgres · dbt · Airflow · OpenAI |
+| [🚨 NYC 911 Pipeline](https://github.com/yashashree5/nyc911-pipeline) | Predicts emergency response times from streaming 911 data | Kafka · Spark · Hive · MLlib |
+| [📉 Telco Churn Analysis](https://github.com/yashashree5/telco-churn-analysis) | Identified **$819K** annual revenue at risk (AUC 0.81) | Python · XGBoost · Tableau |
 
 <details>
-<summary><b>📊 Full toolkit — click to expand</b></summary>
+<summary><b>More projects</b></summary>
 
-| Category | Tools |
-|----------|-------|
-| **Languages** | Python · Java · SQL · JavaScript |
-| **Data Engineering** | Apache Airflow · dbt · Apache Spark · Snowflake · Snowpark ML |
-| **Databases** | PostgreSQL · MySQL · MongoDB · Cassandra |
-| **Cloud & DevOps** | AWS · Docker · Git |
-| **ML & Analytics** | LightGBM · XGBoost · scikit-learn · Tableau · Power BI · Streamlit · Plotly |
-| **Web** | React · FastAPI · LangChain |
+- [🍳 SnowChef](https://github.com/yashashree5/Snowchef) — Recipe predictions from your pantry · Snowflake · dbt · Snowpark ML
+- [⚖️ Legal AI Viewer](https://github.com/yashashree5/legal-ai-viewer) — RAG legal document viewer with clause-level citations
+- [💳 Credit Fraud Detection](https://github.com/yashashree5/Credit_Fraud_Detection_System) — Real-time fraud detection · LightGBM · Streamlit
+- [🏦 Loan Default Risk](https://github.com/yashashree5/loan-default-risk-analysis) — Loan default risk modeling · scikit-learn
+- [🍽️ Yelp Prototype](https://github.com/yashashree5/Yelp-Prototype) — Full-stack review app with AI recommendations · React · FastAPI · LangChain
+- [📦 Data Warehouse](https://github.com/yashashree5/DATA-226-Data-Warehouse) — ETL and dimensional modeling
+- [🌐 Distributed Systems](https://github.com/yashashree5/DATA-236-Distributed-Systems) — Fault-tolerant distributed systems coursework
 
 </details>
 
 ---
 
-## 💼 Featured Projects
+## Recent Hackathons
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| [🚇 BART Transit Intelligence](https://github.com/yashashree5/BART-Transit-Intelligence) | End-to-end pipeline tracking real-time BART train delays with an interactive dashboard | Python · Spark · Snowflake · Airflow · Streamlit |
-| [🎓 Causal Inference Capstone](https://github.com/yashashree5/data298a-causal-inference-uplift) | Master's capstone: AV planner regression-intelligence platform finding scenario-specific improvements | nuPlan · Causal Inference · AI |
-| [🚁 Mayday Ops](https://github.com/yashashree5/mayday-ops) | AI disaster-rescue command center: 911-style calls become drone-checked missions on a live 3D map | Amazon Bedrock · TypeScript |
-| [🤖 IncidentIQ](https://github.com/yashashree5/IncidentIQ) | AI-powered incident management with SLA analytics and AI-driven triage | Postgres · dbt · Airflow · Streamlit · OpenAI |
-| [🚨 NYC 911 Pipeline](https://github.com/yashashree5/nyc911-pipeline) | Real-time big data pipeline for NYC 911 emergency response prediction | Hadoop · Spark · Kafka · Hive · MLlib |
-| [🍳 SnowChef](https://github.com/yashashree5/Snowchef) | Smart kitchen assistant predicting recipes from your pantry | Snowflake · Airflow · dbt · Snowpark ML |
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### � Mayday Ops
+**SpartHill Hacks 2026 · AWS Track**
 
-## 🗂️ All My Repositories
+AI disaster-rescue command center. 911-style calls become drone-verified rescue missions on a live 3D map.
 
-### 🚰 Data Engineering & Pipelines
+`Amazon Bedrock` `TypeScript`
 
-| Repo | What it does | Stack |
-|------|--------------|-------|
-| [🚇 BART Transit Intelligence](https://github.com/yashashree5/BART-Transit-Intelligence) | End-to-end pipeline tracking real-time BART train delays with an interactive dashboard | Python · Spark · Snowflake · Airflow · Streamlit |
-| [🚨 NYC 911 Pipeline](https://github.com/yashashree5/nyc911-pipeline) | Real-time big data pipeline for NYC 911 emergency response prediction | Hadoop · Spark · Kafka · Hive · MLlib |
-| [🍳 SnowChef](https://github.com/yashashree5/Snowchef) | Smart kitchen assistant predicting recipes from your pantry | Snowflake · Airflow · dbt · Snowpark ML |
-| [📦 DATA 226 Data Warehouse](https://github.com/yashashree5/DATA-226-Data-Warehouse) | ETL, dimensional modeling, and data integration coursework | Python · SQL |
+[💻 Code](https://github.com/yashashree5/mayday-ops) · [▶️ Demo](https://drive.google.com/file/d/1TdvfBLsCkJtxfGETf6XHWcFcynw6DKpd/view?usp=drive_link)
 
-### 🤖 AI & Machine Learning
+</td>
+<td width="33%" valign="top">
 
-| Repo | What it does | Stack |
-|------|--------------|-------|
-| [🎓 Causal Inference Capstone](https://github.com/yashashree5/data298a-causal-inference-uplift) | Master's capstone: AV planner regression-intelligence platform finding scenario-specific improvements | nuPlan · Causal Inference · AI |
-| [🤖 IncidentIQ](https://github.com/yashashree5/IncidentIQ) | AI-powered incident management with SLA analytics and AI-driven triage | Postgres · dbt · Airflow · Streamlit · OpenAI |
-| [⚖️ Legal AI Viewer](https://github.com/yashashree5/legal-ai-viewer) | RAG-powered legal document viewer with clause-level citations | RAG · LLM |
-| [📉 Telco Churn Analysis](https://github.com/yashashree5/telco-churn-analysis) | Churn ML (AUC 0.81) identifying $819K annual revenue risk across 7K customers | Python · SQL · XGBoost · Tableau |
-| [💳 Credit Fraud Detection](https://github.com/yashashree5/Credit_Fraud_Detection_System) | Real-time ML fraud detection with an interactive dashboard | Python · LightGBM · Streamlit |
-| [🏦 Loan Default Risk](https://github.com/yashashree5/loan-default-risk-analysis) | Risk modeling and prediction on loan default datasets | Python · scikit-learn |
+### � ContextRelay
+**Fireworks AI Deploy Buildathon**
 
-### 🌐 Full-Stack & Web
+<!-- TODO: replace with a one-line description of ContextRelay -->
+Team project built and deployed on Fireworks AI.
 
-| Repo | What it does | Stack |
-|------|--------------|-------|
-| [🚁 Mayday Ops](https://github.com/yashashree5/mayday-ops) | AI disaster-rescue command center: 911-style calls become drone-checked missions on a live 3D map | Amazon Bedrock · TypeScript |
-| [🍽️ Yelp Prototype](https://github.com/yashashree5/Yelp-Prototype) | Full-stack restaurant review app with JWT auth and LangChain AI recommendations | React · FastAPI · LangChain |
-| [🌐 Personal Website](https://github.com/yashashree5/yashashree5.github.io) | My personal website | HTML |
-| [💱 TradeShpere](https://github.com/yashashree5/TradeShphere) | Python project | Python |
+`Fireworks AI` `LLM Inference`
 
-### 📚 Coursework & More
+[💻 Code](https://github.com/Sbnikitha/ContextRelay) · [▶️ Demo](https://docs.google.com/videos/d/1Mz6Hhj2FARvntrovAuQ583eDyEIoQdsiTd-tUYjJptY/play)
 
-| Repo | What it does |
-|------|--------------|
-| [🌐 DATA 236 Distributed Systems](https://github.com/yashashree5/DATA-236-Distributed-Systems) | Building reliable, scalable, fault-tolerant distributed systems |
-| [🛡️ Ethical Hacking Internship](https://github.com/yashashree5/Ethical-Hacking-Internship-Submission) | Internship submission for ethical hacking program |
+</td>
+<td width="33%" valign="top">
+
+### 🖥️ Edge AI Project
+**HP x SJSU Edge AI Hackathon**
+
+<!-- TODO: add project name, description, code and demo links -->
+On-device AI project built at the HP x SJSU Edge AI Hackathon.
+
+`Edge AI`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📬 Get in Touch
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashree1/)
-[![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashashree.shinde@sjsu.edu)
+**Let's connect →** [LinkedIn](https://www.linkedin.com/in/yashashree1/) · [Email](mailto:yashashree.shinde@sjsu.edu)
 
-</div>
-
----
-
-## 🚀 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yashashree5&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/6F69F7/yashashree5" width="100%" alt="Yashashree's contribution chart" />
-</div>
-
-### 🐍 Watch the snake eat my contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake.svg" />
-  <img alt="GitHub snake animation" src="https://raw.githubusercontent.com/yashashree5/yashashree5/output/github-snake.svg" />
-</picture>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6F69F7&height=80&section=footer" width="100%" alt="Footer wave" />
 </div>
