@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6F69F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Yashashree+%F0%9F%91%8B;Data+Engineer+%C2%B7+ML+%C2%B7+Real-Time+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6F69F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Yashashree+%F0%9F%91%8B;LLM+Inference+%C2%B7+Agentic+AI+%C2%B7+Multimodal+AI+%C2%B7+Big+Data)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashashree1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashashree.shinde@sjsu.edu)
