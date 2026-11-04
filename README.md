@@ -94,13 +94,14 @@ Team project built and deployed on Fireworks AI.
 </td>
 <td width="33%" valign="top">
 
-### 🖥️ Edge AI Project
+### � Gauge
 **HP x SJSU Edge AI Hackathon**
 
-<!-- TODO: add project name, description, code and demo links -->
-On-device AI project built at the HP x SJSU Edge AI Hackathon.
+Edge AI that hears machine faults from an 8-mic array, shows the faulty part in 3D, and guides the repair with a manual-grounded chatbot. Runs fully offline on an HP ZGX Nano.
 
-`Edge AI`
+`Audio Spectrogram Transformer` `Qwen2.5-Omni` `RAG` `HP ZGX Nano`
+
+[💻 Code](https://github.com/siliconsquad6/gauge-acoustic-diagnostics) · [▶️ Demo](https://drive.google.com/drive/folders/1ZQ6p5TBfUvCb-LKeHSC3kUXtEpl0YoPm?usp=drive_link)
 
 </td>
 </tr>
