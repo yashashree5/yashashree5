@@ -23,7 +23,7 @@ I build data pipelines and ML systems that run reliably in production.
 
 - 🧠 Going deep on **LLM inference, transformers, and applied deep learning**
 - 🚗 Building **ADAS** (advanced driver-assistance systems) projects
-- 🏆 Joining **hackathons around San Francisco** to learn how the industry builds. Most recent: HP x SJSU Edge AI, SpartHill Hacks 2026 (AWS Track), and the Fireworks AI Deploy Buildathon
+- 🏆 Joining **hackathons around San Francisco** to learn how the industry builds. Most recent: HP x SJSU Edge AI, SpartHill Hacks 2026 (AWS Track), and Fireworks AI: Deploy with Microsoft & NVIDIA
 
 ---
 
@@ -82,12 +82,11 @@ AI disaster-rescue command center. 911-style calls become drone-verified rescue 
 <td width="33%" valign="top">
 
 ### � ContextRelay
-**Fireworks AI Deploy Buildathon**
+**Fireworks AI: Deploy with Microsoft & NVIDIA**
 
-<!-- TODO: replace with a one-line description of ContextRelay -->
-Team project built and deployed on Fireworks AI.
+Cuts input-token cost for tool-calling agents. Stores large tool outputs outside the prompt and appends a short summary plus a reference, so history is never edited and the prompt cache stays warm. The agent calls `expand(ref_id)` to fetch exact rows when needed.
 
-`Fireworks AI` `LLM Inference`
+`Fireworks AI` `LLM Inference` `Prompt Caching` `Python`
 
 [💻 Code](https://github.com/Sbnikitha/ContextRelay) · [▶️ Demo](https://docs.google.com/videos/d/1Mz6Hhj2FARvntrovAuQ583eDyEIoQdsiTd-tUYjJptY/play)
 
