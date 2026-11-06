@@ -17,7 +17,6 @@ I build data pipelines and ML systems that run reliably in production.
 - 🎓 **MS in Applied Data Intelligence** @ San José State University
 - 💼 **2 years at Barclays** (Software Engineer, Graduate Analyst): made a 4-hour production workflow 81% faster, and cut failed requests from 2.8% to 0.9% across 50K+ daily transactions
 - 🧪 **Capstone:** AV planner regression detection using nuPlan and causal inference
-- 🎯 **Open to** Data Engineering and ML roles · 📍 San Jose, CA
 
 **Right now I'm:**
 
