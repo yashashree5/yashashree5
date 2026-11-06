@@ -32,7 +32,7 @@ I build data pipelines and ML systems that run reliably in production.
 |---|---|
 | **🛠️ Data Engineering** | Python · SQL · Airflow · dbt · Spark · Kafka · Snowflake · PostgreSQL · MongoDB · Cassandra · AWS · Docker |
 | **📊 Data Analytics** | SQL · Pandas · scikit-learn · XGBoost · LightGBM · Tableau · Power BI · Streamlit |
-| **🧠 Currently Exploring** | LLM Inference · Transformers · Applied Deep Learning · Fireworks AI · Amazon Bedrock · LangChain |
+| **🧠 Currently Exploring** | LLM Inference · Transformers · Applied Deep Learning |
 
 ---
 
