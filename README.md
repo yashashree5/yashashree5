@@ -14,15 +14,15 @@
 
 I build data pipelines and ML systems that run reliably in production.
 
-- 🎓 **MS in Applied Data Intelligence** @ San José State University
-- 💼 **2 years at Barclays** (Software Engineer, Graduate Analyst): made a 4-hour production workflow 81% faster, and cut failed requests from 2.8% to 0.9% across 50K+ daily transactions
-- 🧪 **Capstone:** AV planner regression detection using nuPlan and causal inference
+- **MS in Applied Data Intelligence** @ San José State University
+-  **2 years at Barclays** (Software Engineer, Graduate Analyst): made a 4-hour production workflow 81% faster, and cut failed requests from 2.8% to 0.9% across 50K+ daily transactions
+-  **Capstone:** AV planner regression detection using nuPlan and causal inference
 
 **Right now I'm:**
 
-- 🧠 Going deep on **LLM inference, transformers, and applied deep learning**
-- 🚗 Building **ADAS** (advanced driver-assistance systems) projects
-- 🏆 Joining **hackathons around San Francisco** to learn how the industry builds. Most recent: HP x SJSU Edge AI, SpartHill Hacks 2026 (AWS Track), and Fireworks AI: Deploy with Microsoft & NVIDIA
+-  Going deep on **LLM inference, transformers, and applied deep learning**
+-  Building **ADAS** (advanced driver-assistance systems) projects
+-  Joining **hackathons around San Francisco** to learn how the industry builds. Most recent: HP x SJSU Edge AI, SpartHill Hacks 2026 (AWS Track), and Fireworks AI: Deploy with Microsoft & NVIDIA
 
 ---
 
@@ -30,9 +30,9 @@ I build data pipelines and ML systems that run reliably in production.
 
 | | |
 |---|---|
-| **🛠️ Data Engineering** | Python · SQL · Airflow · dbt · Spark · Kafka · Snowflake · PostgreSQL · MongoDB · Cassandra · AWS · Docker |
-| **📊 Data Analytics** | SQL · Pandas · scikit-learn · XGBoost · LightGBM · Tableau · Power BI · Streamlit |
-| **🧠 Currently Exploring** | LLM Inference · Transformers · Applied Deep Learning |
+| ** Data Engineering** | Python · SQL · Airflow · dbt · Spark · Kafka · Snowflake · PostgreSQL · MongoDB · Cassandra · AWS · Docker |
+| ** Data Analytics** | SQL · Pandas · scikit-learn · XGBoost · LightGBM · Tableau · Power BI · Streamlit |
+| ** Currently Exploring** | LLM Inference · Transformers · Applied Deep Learning |
 
 ---
 
